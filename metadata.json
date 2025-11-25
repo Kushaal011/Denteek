@@ -1,0 +1,7 @@
+{
+  "name": "Denteek Dental Clinic",
+  "description": "A modern, responsive website for Denteek Dental Clinic in Philadelphia, featuring appointment booking, service details, and an AI-powered dental assistant.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
